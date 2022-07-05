@@ -15,3 +15,4 @@ To be mounted on benchtop.
 
 [eBay purchase](https://www.ebay.com.au/itm/254621457008)
 
+Will be modified to sit at approximately 45 degrees, & Energy Subframe.
