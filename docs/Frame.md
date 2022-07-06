@@ -46,12 +46,19 @@ The number plate mount is as drawn in “Sheet Metal.Number Plate Mount.pdf”. 
 
 ![A4-06 Energy Subframe FL](Frame/A4-06 Energy Subframe FL.pdf)
 ![A4-07 Energy Subframe FR](Frame/A4-07 Energy Subframe FR.pdf)
+![A4-08 Energy Subframe Plan View](Frame/A4-08 Energy Subframe Plan View.pdf)
 
 A subframe to support gas bottle & batteries.
 
 Three sides of a rectangle 530 mm (one side) x 300 mm (both sides), made of 25x25 angle, as shown.
 
-The gas bottle holder is a purchased item modified to sit at an angle that permits opening without interference.
+### Gas Bottle Holder
+
+The gas bottle holder is an [eBay purchase](https://www.ebay.com.au/itm/254621457008). It will be modified to sit at approximately 45 degrees within the  Energy Subframe to permit opening without interference.
+
+![gas-bottle-holder](_images/gas-bottle-holder.jpeg)
+
+### Battery Holder
 
 The battery holder as shown is for illustration only. It may be however the engineer chooses to achieve…
 
@@ -62,19 +69,7 @@ The battery holder as shown is for illustration only. It may be however the engi
 
 The diagonal brace shown is a possible way to maintain battery position in that direction while adding support to the structure.
 
-![A4-08 Energy Subframe Plan View](Frame/A4-08 Energy Subframe Plan View.pdf)
 ![A4-03 Battery Clamp](Sheet Metal/A4-03 Battery Clamp.pdf)
-
-### Gas bottle holder
-
-The gas bottle holder is an [eBay purchase](https://www.ebay.com.au/itm/254621457008). It will be modified to sit at approximately 45 degrees within the  Energy Subframe.
-
-![gas-bottle-holder](_images/gas-bottle-holder.jpeg)
-
-
-
-
-
 
 ## Assembly
 
