@@ -33,11 +33,14 @@ Both frames…
 
 Vertical members are 548 mm for the front frame & 448 mm for the back frame, for overall heights of 563 mm & 463 mm.
 
+Numbering the vertical members 1 being the additional vertical on the front frame & 5 being the RH vertical, the spacing between 1 & 2 should be equal to the spacing between 3 & 4 (so that there is only one width of drawer).
+
 The additional vertical on the front frame is 185 mm & attached under the LH end.
 
 The number plate mount is as drawn in “Sheet Metal.Number Plate Mount.pdf”. It is to be attached as shown, flush to the outside face with the return facing inward.
 
-Numbering the vertical members 1 being the additional vertical on the front frame & 5 being the RH vertical, the spacing between 1 & 2 should be equal to the spacing between 3 & 4 (so that there is only one width of drawer).
+![A4-01 Number Plate Mount Top](Sheet Metal/A4-01 Number Plate Mount Top.pdf)
+![A4-02 Number Plate Mount Back](Sheet Metal/A4-02 Number Plate Mount Back.pdf)
 
 ## Energy Subframe
 
@@ -58,7 +61,9 @@ The battery holder as shown is for illustration only. It may be however the engi
 * The batteries are retained & kept in position by a simple, yet secure, means.
 
 The diagonal brace shown is a possible way to maintain battery position in that direction while adding support to the structure.
-![A4-08 Energy Subframe Plan View](Frame/A4-08 Energy Subframe Plan View.pdf)
+
+![A4-08 Energy Subframe Plan View](Frame/A4-08 Energy Subframe Plan View.pdf)
+![A4-03 Battery Clamp](Sheet Metal/A4-03 Battery Clamp.pdf)
 
 ## Assembly
 
