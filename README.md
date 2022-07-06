@@ -4,17 +4,25 @@ A tow bar mounted camping kitchen.
 
 --
 
+1. [Frame](docs/Frame.md)
+1. Assemblies
+<!--1. [Assemblies](docs/Assemblies.md)-->
+1. Components
+<!--1. [Components](docs/Components.md)-->
+1. Detail
+<!--1. [Detail](docs/Detail.md)-->
+1. Lights
+<!--1. [Lights](docs/Lights.md)-->
 1. Overview
-<!--1. [Overview](docs/)-->
-2. [Frame](docs/Frame.md)
-3. Plywood
-<!--3. [Plywood](docs/)-->
-4. Undercarriage
-<!--4. [Undercarriage](docs/)-->
-5. Sheet Metal
-<!--5. [Sheet Metal](docs/)-->
-
-
+<!--1. [Overview](docs/Overview.md)-->
+1. Plywood
+<!--1. [Plywood](docs/Plywood.md)-->
+1. Sheet Metal
+<!--1. [Sheet Metal](docs/Sheet Metal.md)-->
+1. Steel
+<!--1. [Steel](docs/Steel.md)-->
+1. Undercarriage
+<!--1. [Undercarriage](docs/Undercarriage.md)-->
 
 ## *Note*
 
