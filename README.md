@@ -2,6 +2,9 @@
 
 A tow bar mounted camping kitchen.
 
+![Kitchen on Challenger 1](Kitchen on Challenger 1.png)
+![Kitchen on Challenger 2](Kitchen on Challenger 2.png)
+
 --
 
 1. [Frame](docs/Frame.md) ([PDF](Frame.pdf))
