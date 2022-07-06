@@ -2,26 +2,44 @@
 
 Rectangular hollow, 25 x 25 mm angle, & 16 x 3 mm flat bar, steel.
 
-![]()
 
-Drawings in “03 Frame.pdf”.
-Bottom Frame
+![A4-01 Frame Front](Frame/A4-01 Frame Front.pdf)
+![A4-02 Frame Back](Frame/A4-02 Frame Back.pdf)
+
+## Bottom Frame
+
+![A4-03 Bottom Frame](Frame/A4-03 Bottom Frame.pdf)
+
 All 25x25 RHS. Bottom rails, 1300 mm long, spaced 475 mm apart with cross members as shown on p3 of drawings. Drawn with mitred end joins but don’t have to be joined that way. Butt joins would make a cutting list of just 2 x 25x25 RHS 1300 mm long, & 4 x 25x25 RHS 480 mm long.
+
 A mount for a reversing light might be required. That is drawn as 23x3 flat, 30 mm long, with an 8 mm hole in the centre. The hole could be further inside the frame.
-Front & Back Frames
+
+## Front & Back Frames
+
+![A4-04 Front Frame](Frame/A4-04 Front Frame.pdf)
+![A4-05 Back Frame](Frame/A4-05 Back Frame.pdf)
+
 The front & back frames are mirror images of each other with 3 differences…
-The front frame is 100 mm taller,
-The front frame has an additional vertical member at the LH end.
-The back frame has a number plate mount attached.
+
+* The front frame is 100 mm taller,
+* The front frame has an additional vertical member at the LH end.
+* The back frame has a number plate mount attached.
+
 Both frames…
-Have top members of 15x15 RHS 1582 long.
-Assembled flush to the outside face.
-Have vertical members of 16x3 flat attached as shown on pp4 & 5 of drawings.
+
+* Have top members of 15x15 RHS 1582 long.
+* Assembled flush to the outside face.
+* Have vertical members of 16x3 flat attached as shown on pp4 & 5 of drawings.
+
 Vertical members are 548 mm for the front frame & 448 mm for the back frame, for overall heights of 563 mm & 463 mm.
-The additional member on the front frame is 185 mm & attached under the LH end.
+
+The additional vertical on the front frame is 185 mm & attached under the LH end.
+
 The number plate mount is as drawn in “Sheet Metal.Number Plate Mount.pdf”. It is to be attached as shown on p5 of drawings, flush to the outside face with the return facing inward.
+
 Numbering the vertical members 1 being the additional vertical on the front frame & 5 being the RH vertical, the spacing between 1 & 2 should be equal to the spacing between 3 & 4 (so that there is only one width of drawer).
-Energy Rack
+
+## Energy Subframe
 A subframe to support gas bottle & batteries.
 Three sides of a rectangle 530 mm (one side) x 300 mm (both sides), made of 25x25 angle, as shown on p6 of drawings.
 The gas bottle holder is a purchased item modified to sit at an angle that permits opening without interference.
@@ -40,4 +58,7 @@ There are 2 x cross members of 16 x 3 mm flat, & one cross member of 25 x 3 mm f
 The 16 mm cross members are flush in the end planes of the top rails, running horizontally from the inside face of the back top rail to the adjacent front vertical.
 The 25 mm cross member runs horizontally between the LH pair of verticals, at a height for attachment to the band of the gas bottle holder (with a spacer if appropriate).
 The energy rack is attached to the LH end of the bottom frame as shown in pp1 & 2 of drawings.
-
+![A4-06 Energy Rack FL](Frame/A4-06 Energy Rack FL.pdf)
+![A4-07 Energy Rack FR](Frame/A4-07 Energy Rack FR.pdf)
+![A4-08 Energy Rack Plan View](Frame/A4-08 Energy Rack Plan View.pdf)
+
