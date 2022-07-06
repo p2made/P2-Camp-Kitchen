@@ -86,7 +86,7 @@ Shelf 410 x 500 mm. Requires hole under centre of sink bowl for passage of sink 
 
 1570 x 100 mm, with holes near centre for switchgear.
 
-##Lid
+## Lid
 
 Four sides of a 1600 x 530 x 112 mm box.
 Pieces are…
