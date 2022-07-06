@@ -65,6 +65,17 @@ The diagonal brace shown is a possible way to maintain battery position in that 
 ![A4-08 Energy Subframe Plan View](Frame/A4-08 Energy Subframe Plan View.pdf)
 ![A4-03 Battery Clamp](Sheet Metal/A4-03 Battery Clamp.pdf)
 
+### Gas bottle holder
+
+The gas bottle holder is an [eBay purchase](https://www.ebay.com.au/itm/254621457008). It will be modified to sit at approximately 45 degrees within the  Energy Subframe.
+
+![gas-bottle-holder](_images/gas-bottle-holder.jpeg)
+
+
+
+
+
+
 ## Assembly
 
 The front & back frames are attached to the bottom frame…
