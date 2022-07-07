@@ -2,6 +2,11 @@
 
 Pieces cut from 12 mm marine ply.
 
+Where there is no drawing, there is either...
+
+* No additional detail, or
+* Additional details haven't yet been drawn.
+
 ## Cross Panels
 
 Five cross members, LH, RH, & 1 to 3 numbered LH to RH.
@@ -52,29 +57,22 @@ Provision for hardware not yet shown.
 
 Five drawers with front panels…
 
-Drawer fronts 1 & 3, 284 x 96 mm for a nominal depth of 100 mm.
+* Drawer fronts 1 & 3, 284 x 96 mm, for a nominal depth of 100 mm.
+* Drawer fronts 2 & 4, 284 x 146 mm, for a nominal depth of 150 mm.
+* Drawer front 5, 284 x 305 mm, for a nominal depth of 309 mm (with 4 mm clearance below).
 
-[![A4-09 Drawer Front 1 & 3](Plywood/A4-09-Drawer-Front-1-3.png)](Plywood/A4-09-Drawer-Front-1-3.pdf)
-
-Drawer fronts 2 & 4, 284 x 146 mm for a nominal depth of 150 mm.
-
-[![A4-10 Drawer Front 2 & 4](Plywood/A4-10-Drawer-Front-2-4.png)](Plywood/A4-10-Drawer-Front-2-4.pdf)
-
-Drawer front 5, 284 x 305 mm for a nominal depth of 309 mm (with 4 mm clearance below).
-
-[![A4-11 Drawer Front 5](Plywood/A4-11-Drawer-Front-5.png)](Plywood/A4-11-Drawer-Front-5.pdf)
+Drawers 1 & 2 are special purpose drawers…
 
 * Drawer 1, 350 mm long with the bottom set high for an effective depth of 50 mm.
 * Drawer 2, 250 mm long with a rail across the top back instead of a back panel, so that there is a large opening for wiring.
-* The rest of the drawers are entirely standard, & as long as possible.
+
+The rest of the drawers are entirely standard, & as long as possible.
 
 ## Cupboard
 
 Door 406 x 555 mm. Provision for hardware not yet shown.
 
-[![A4-12 Cupboard Door](Plywood/A4-12-Cupboard-Door.png)](Plywood/A4-12-Cupboard-Door.pdf)
-
-Floor 384 x 480 mm. Requires cutout at LB corner for passage of sink waste hose (drawn as 70 mm radius quarter circle).
+Floor 384 x 480 mm. Requires an opening at LB corner for passage of sink waste hose (drawn as 70 mm radius quarter circle).
 
 [![A4-13 Cupboard Floor](Plywood/A4-13-Cupboard-Floor.png)](Plywood/A4-13-Cupboard-Floor.pdf)
 
@@ -100,5 +98,3 @@ Pieces are…
 ## End Shelf
 
 400 x 530 mm. To attach to RH end when deployed.
-
-[![A4-15 End Shelf](Plywood/A4-15-End-Shelf.png)](Plywood/A4-15-End-Shelf.pdf)
