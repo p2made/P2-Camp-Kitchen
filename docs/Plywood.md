@@ -8,23 +8,23 @@ Five cross members, LH, RH, & 1 to 3 numbered LH to RH.
 
 Routing is 3mm deep & 18 mm wide for 16 x 3 mm flat steel to fit flush within.
 
-**Panel LH:** 530 x 250 mm, with hole for water hoses & cutout for gas bottle access.
+**End Panel LH:** 530 x 250 mm, with hole for water hoses, hole for clearance light, & cutout for gas bottle access.
 
 ![A4-01 End Panel LH](Plywood/A4-01-End-Panel-LH.png)
 
-**Panel RH:** 530 x 563 mm.
+**End Panel RH:** 530 x 563 mm, with hole for clearance light.
 
 ![A4-02 End Panel RH](Plywood/A4-02-End-Panel-RH.png)
 
-**Panel 1:** 530 x 563 mm, with hole for gas hose movement, & cutouts for frame top rails, pipe & wiring, & LH back panel. Horizontal routed channel is 27 mm for 25 x 3 mm flat steel.
+**Cross Panel 1:** 530 x 563 mm, with hole for gas hose movement, & cutouts for frame top rails, pipe & wiring, & LH back panel. Horizontal routed channel is 27 mm for 25 x 3 mm flat steel.
 
 ![A4-03 Cross Panel 1](Plywood/A4-03-Cross-Panel-1.png)
 
-**Panel 2:** 518 x 563 mm, with cutouts for frame top rails, & pipe & wiring.
+**Cross Panel 2:** 518 x 563 mm, with cutouts for frame top rails, & pipe & wiring.
 
 ![A4-04 Cross Panel 2](Plywood/A4-04-Cross-Panel-2.png)
 
-**Panel 3:** Mirror of panel 3.
+**Cross Panel 3:** Mirror of panel 3.
 
 ![A4-05 Cross Panel 3](Plywood/A4-05-Cross-Panel-3.png)
 
@@ -32,7 +32,7 @@ Routing is 3mm deep & 18 mm wide for 16 x 3 mm flat steel to fit flush within.
 
 Two back panels, both having holes for mounting taillights.
 
-**LH Back Panel:** 300 x 115 mm, with routing so that number plate light can be recessed.
+**LH Back Panel:** 300 x 115 mm.
 
 ![A4-06 Back Panel LH](Plywood/A4-06-Back-Panel-LH.png)
 
@@ -48,6 +48,8 @@ Two back panels, both having holes for mounting taillights.
 
 ## Drawers
 
+Provision for hardware not yet shown.
+
 Five drawers with front panels…
 
 Drawer fronts 1 & 3, 284 x 96 mm for a nominal depth of 100 mm.
@@ -62,11 +64,9 @@ Drawer front 5, 284 x 305 mm for a nominal depth of 309 mm (with 4 mm clearance 
 
 ![A4-11 Drawer Front 5](Plywood/A4-11-Drawer-Front-5.png)
 
-Provision for hardware not yet shown.
-
 * Drawer 1, 350 mm long with the bottom set high for an effective depth of 50 mm.
 * Drawer 2, 250 mm long with a rail across the top back instead of a back panel, so that there is a large opening for wiring.
-* The rest of the drawers are entirely standard.
+* The rest of the drawers are entirely standard, & as long as possible.
 
 ## Cupboard
 
@@ -87,6 +87,8 @@ Shelf 410 x 500 mm. Requires hole under centre of sink bowl for passage of sink 
 1570 x 100 mm, with holes near centre for switchgear.
 
 ## Lid
+
+Provision for hardware not yet shown.
 
 Four sides of a 1600 x 530 x 112 mm box.
 Pieces are…
