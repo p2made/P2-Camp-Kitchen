@@ -37,10 +37,10 @@ Numbering the vertical members 1 being the additional vertical on the front fram
 
 The additional vertical on the front frame is 185 mm & attached under the LH end.
 
-The number plate mount is as drawn in “Sheet Metal.Number Plate Mount.png”. It is to be attached as shown, flush to the outside face with the return facing inward.
+The number plate mount to be attached as shown, flush to the outside face with the return facing inward.
 
-![A4-01 Number Plate Mount Top](Sheet Metal/A4-01-Number-Plate-Mount-Top.png)
-![A4-02 Number Plate Mount Back](Sheet Metal/A4-02-Number-Plate-Mount-Back.png)
+![A4-01 Number Plate Mount Top](Sheet-Metal/A4-01-Number-Plate-Mount-Top.png)
+![A4-02 Number Plate Mount Back](Sheet-Metal/A4-02-Number-Plate-Mount-Back.png)
 
 ## Energy Subframe
 
@@ -69,7 +69,7 @@ The battery holder as shown is for illustration only. It may be however the engi
 
 The diagonal brace shown is a possible way to maintain battery position in that direction while adding support to the structure.
 
-![A4-03 Battery Clamp](Sheet Metal/A4-03-Battery-Clamp.png)
+![A4-03 Battery Clamp](Sheet-Metal/A4-03-Battery-Clamp.png)
 
 ## Assembly
 
