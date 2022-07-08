@@ -3,12 +3,12 @@
 Rectangular hollow, 25 x 25 mm angle, & 16 x 3 mm flat bar, steel.
 
 
-[![A4-01 Frame Front](Frame/A4-01-Frame-Front.png)](Frame/A4-01-Frame-Front.pdf)
-[![A4-02 Frame Back](Frame/A4-02-Frame-Back.png)](Frame/A4-02-Frame-Back.pdf)
+[![01 Frame Front](Frame/01-Frame-Front.png)](_PDF/Frame/01-Frame-Front.pdf)
+[![02 Frame Back](Frame/02-Frame-Back.png)](_PDF/Frame/02-Frame-Back.pdf)
 
 ## Bottom Frame
 
-[![A4-03 Bottom Frame](Frame/A4-03-Bottom-Frame.png)](Frame/A4-03-Bottom-Frame.pdf)
+[![03 Bottom Frame](Frame/03-Bottom-Frame.png)](_PDF/Frame/03-Bottom-Frame.pdf)
 
 All 25x25 RHS. Bottom rails, 1300 mm long, spaced 475 mm apart with cross members as shown. Drawn with mitred end joins but don’t have to be joined that way. Butt joins would make a cutting list of just 2 x 25x25 RHS 1300 mm long, & 4 x 25x25 RHS 480 mm long.
 
@@ -16,8 +16,8 @@ A mount for a reversing light might be required. That is drawn as 23x3 flat, 30 
 
 ## Front & Back Frames
 
-[![A4-04 Front Frame](Frame/A4-04-Front-Frame.png)](Frame/A4-04-Front-Frame.pdf)
-[![A4-05 Back Frame](Frame/A4-05-Back-Frame.png)](Frame/A4-05-Back-Frame.pdf)
+[![04 Front Frame](Frame/04-Front-Frame.png)](_PDF/Frame/04-Front-Frame.pdf)
+[![05 Back Frame](Frame/05-Back-Frame.png)](_PDF/Frame/05-Back-Frame.pdf)
 
 The front & back frames are mirror images of each other with 3 differences…
 
@@ -39,13 +39,13 @@ The additional vertical on the front frame is 185 mm & attached under the LH end
 
 The number plate mount to be attached as shown, flush to the outside face with the return facing inward.
 
-[![A4-01 Number Plate Mount Top](Sheet-Metal/A4-01-Number-Plate-Mount-Top.png)](Sheet-Metal/A4-01-Number-Plate-Mount-Top.pdf)
-[![A4-02 Number Plate Mount Back](Sheet-Metal/A4-02-Number-Plate-Mount-Back.png)](Sheet-Metal/A4-02-Number-Plate-Mount-Back.pdf)
+[![01 Number Plate Mount Top](Sheet-Metal/01-Number-Plate-Mount-Top.png)](_PDF/Sheet-Metal/01-Number-Plate-Mount-Top.pdf)
+[![02 Number Plate Mount Back](Sheet-Metal/02-Number-Plate-Mount-Back.png)](_PDF/Sheet-Metal/02-Number-Plate-Mount-Back.pdf)
 
 ## Energy Subframe
 
-[![A4-06 Energy Subframe FL](Frame/A4-06-Energy-Subframe-FL.png)](Frame/A4-06-Energy-Subframe-FL.pdf)
-[![A4-07 Energy Subframe FR](Frame/A4-07-Energy-Subframe-FR.png)](Frame/A4-07-Energy-Subframe-FR.pdf)
+[![06 Energy Subframe FL](Frame/06-Energy-Subframe-FL.png)](_PDF/Frame/06-Energy-Subframe-FL.pdf)
+[![07 Energy Subframe FR](Frame/07-Energy-Subframe-FR.png)](_PDF/Frame/07-Energy-Subframe-FR.pdf)
 
 A subframe to support gas bottle & batteries.
 
@@ -53,8 +53,8 @@ Three sides of a rectangle 530 mm (one side) x 300 mm (both sides), made of 25x2
 
 Plan views of the energy subframe with horizontal & vertical betteries…
 
-[![A4-08 Energy Subframe Plan View](Frame/A4-08-Energy-Subframe-Plan-View.png)](Frame/A4-08-Energy-Subframe-Plan-View.pdf)
-[![A4-09 Energy Subframe v2 Plan View](Frame/A4-09-Energy-Subframe-2-Plan-View.png)](Frame/A4-09-Energy-Subframe-2-Plan-View.pdf)
+[![08 Energy Subframe Plan View](Frame/08-Energy-Subframe-Plan-View.png)](_PDF/Frame/08-Energy-Subframe-Plan-View.pdf)
+[![09 Energy Subframe v2 Plan View](Frame/09-Energy-Subframe-2-Plan-View.png)](_PDF/Frame/09-Energy-Subframe-2-Plan-View.pdf)
 
 ### Gas Bottle Holder
 
@@ -73,7 +73,7 @@ The battery holder as shown is for illustration only. It may be however the engi
 
 The diagonal brace shown is a possible way to maintain battery position in that direction while adding support to the structure.
 
-[![A4-03 Battery Clamp](Sheet-Metal/A4-03-Battery-Clamp.png)](Sheet-Metal/A4-03-Battery-Clamp.pdf)
+[![03 Battery Clamp](Sheet-Metal/03-Battery-Clamp.png)](_PDF/Sheet-Metal/03-Battery-Clamp.pdf)
 
 ## Assembly
 
