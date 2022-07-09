@@ -20,8 +20,8 @@ Made principally from…
 
 ## Front & Back Frames
 
-[![04 Front Frame](Frame/04-Front-Frame.png)](_PDF/Frame/04-Front-Frame.pdf)
-[![05 Back Frame](Frame/05-Back-Frame.png)](_PDF/Frame/05-Back-Frame.pdf)
+[![04 Front Frame](Frame/04-Front-Frame.png)](Frame/04-Front-Frame.pdf "04 Front Frame")
+[![05 Back Frame](Frame/05-Back-Frame.png)](Frame/05-Back-Frame.pdf "05 Back Frame")
 
 The front & back frames are mirror images of each other with some differences.
 
@@ -47,8 +47,8 @@ The front & back frames are mirror images of each other with some differences.
 
 ## Energy Subframe
 
-[![06 Energy Subframe FL](Frame/06-Energy-Subframe-FL.png)](_PDF/Frame/06-Energy-Subframe-FL.pdf)
-[![07 Energy Subframe FR](Frame/07-Energy-Subframe-FR.png)](_PDF/Frame/07-Energy-Subframe-FR.pdf)
+[![06 Energy Subframe FL](Frame/06-Energy-Subframe-FL.png)](Frame/06-Energy-Subframe-FL.pdf "06 Energy Subframe FL")
+[![07 Energy Subframe FR](Frame/07-Energy-Subframe-FR.png)](Frame/07-Energy-Subframe-FR.pdf "07 Energy Subframe FR")
 
 A subframe to support gas bottle & batteries.
 
@@ -56,12 +56,14 @@ Three sides of a rectangle 530 mm (one side) x 300 mm (both sides), made of 25x2
 
 Plan views of the energy subframe with horizontal & vertical batteries…
 
-[![08 Energy Subframe Plan View](Frame/08-Energy-Subframe-Plan-View.png)](_PDF/Frame/08-Energy-Subframe-Plan-View.pdf)
-[![09 Energy Subframe v2 Plan View](Frame/09-Energy-Subframe-2-Plan-View.png)](_PDF/Frame/09-Energy-Subframe-2-Plan-View.pdf)
+[![08 Energy Subframe Plan View](Frame/08-Energy-Subframe-Plan-View.png)](Frame/08-Energy-Subframe-Plan-View.pdf "08 Energy Subframe Plan View")
+[![09 Energy Subframe 2 Plan View](Frame/09-Energy-Subframe-2-Plan-View.png)](Frame/09-Energy-Subframe-2-Plan-View.pdf "09 Energy Subframe 2 Plan View")
 
 ### Gas Bottle Holder
 
-The gas bottle holder is an [eBay purchase](https://www.ebay.com.au/itm/254621457008). It will be modified to sit at approximately 45 degrees within the  Energy Subframe to permit opening without interference.
+* An [eBay purchase](https://www.ebay.com.au/itm/254621457008).
+* To be modified to sit at approximately 45 degrees within the  Energy Subframe to permit opening without interference.
+* Drawings show it positioned 3 mm inside the imagary back face, & centred left to right.
 
 ![gas-bottle-holder](_images/gas-bottle-holder.jpeg)
 
@@ -74,7 +76,7 @@ The battery holder as shown is for illustration only. It may be however the engi
 * The spaces between the batteries, & between the imaginary RH surface of the subframe, are approximately equal.
 * The batteries are retained & kept in position by a simple, yet secure, means.
 
-The diagonal brace shown is a possible way to maintain battery position in that direction while adding support to the structure.
+The diagonal brace shown is a possible way to maintain battery position in the back direction while adding support to the structure.
 
 [![03 Battery Clamp](Sheet-Metal/03-Battery-Clamp.png)](_PDF/Sheet-Metal/03-Battery-Clamp.pdf)
 
@@ -90,13 +92,7 @@ There are 2 x cross members of 16 x 3 mm flat, & one cross member of 25 x 3 mm f
 
 The 16 mm cross members are flush in the end planes of the top rails, running horizontally from the inside face of the back top rail to the adjacent front vertical.
 
-The 25 mm cross member runs horizontally between the LH pair of verticals, at a height for attachment to the band of the gas bottle holder (with a spacer if appropriate).
+The 25 mm cross member runs horizontally between the LH pair of verticals, at a height for attachment to the band of the gas bottle holder (with a spacer if appropriate). The actual height must be advised for appliction to plywood cutting.
 
 The energy rack is attached to the LH end of the bottom frame.
 
-[![04 Front Frame](Frame/04-Front-Frame.png)](Frame/04-Front-Frame.pdf "04 Front Frame")
-[![05 Back Frame](Frame/05-Back-Frame.png)](Frame/05-Back-Frame.pdf "05 Back Frame")
-[![06 Energy Subframe FL](Frame/06-Energy-Subframe-FL.png)](Frame/06-Energy-Subframe-FL.pdf "06 Energy Subframe FL")
-[![07 Energy Subframe FR](Frame/07-Energy-Subframe-FR.png)](Frame/07-Energy-Subframe-FR.pdf "07 Energy Subframe FR")
-[![08 Energy Subframe Plan View](Frame/08-Energy-Subframe-Plan-View.png)](Frame/08-Energy-Subframe-Plan-View.pdf "08 Energy Subframe Plan View")
-[![09 Energy Subframe 2 Plan View](Frame/09-Energy-Subframe-2-Plan-View.png)](Frame/09-Energy-Subframe-2-Plan-View.pdf "09 Energy Subframe 2 Plan View")
