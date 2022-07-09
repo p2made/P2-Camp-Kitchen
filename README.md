@@ -14,21 +14,21 @@ A tow bar mounted camping kitchen.
 
 ## Docs
 
-1. [Detail](docs/Detail.md) ([PDF](docs/_PDF/Detail.pdf))
-2. [Frame](docs/Frame.md) ([PDF](docs/_PDF/Frame.pdf))
-3. [Plywood](docs/Plywood.md) ([PDF](docs/_PDF/Plywood.pdf))
+1. [Detail](docs/Detail.md) ([PDF](docs/Detail.pdf))
+2. [Frame](docs/Frame.md) ([PDF](docs/Frame.pdf))
+3. [Plywood](docs/Plywood.md) ([PDF](docs/Plywood.pdf))
 4. Undercarriage
-<!--4. [Undercarriage](docs/Undercarriage.md) ([PDF](docs/_PDF/Undercarriage.pdf))-->
+<!--4. [Undercarriage](docs/Undercarriage.md) ([PDF](docs/Undercarriage.pdf))-->
 5. Components
-<!--5. [Components](docs/Components.md) ([PDF](docs/_PDF/Components.pdf))-->
+<!--5. [Components](docs/Components.md) ([PDF](docs/Components.pdf))-->
 6. Lights
-<!--6. [Lights](docs/Lights.md) ([PDF](docs/_PDF/Lights.pdf))-->
+<!--6. [Lights](docs/Lights.md) ([PDF](docs/Lights.pdf))-->
 7. Sheet-Metal
-<!--7. [Sheet-Metal](docs/Sheet-Metal.md) ([PDF](docs/_PDF/Sheet-Metal.pdf))-->
+<!--7. [Sheet-Metal](docs/Sheet-Metal.md) ([PDF](docs/Sheet-Metal.pdf))-->
 8. Steel
-<!--8. [Steel](docs/Steel.md) ([PDF](docs/_PDF/Steel.pdf))-->
+<!--8. [Steel](docs/Steel.md) ([PDF](docs/Steel.pdf))-->
 9. Assemblies
-<!--9. [Assemblies](docs/Assemblies.md) ([PDF](docs/_PDF/Assemblies.pdf))-->
+<!--9. [Assemblies](docs/Assemblies.md) ([PDF](docs/Assemblies.pdf))-->
 
 ##<a id="overview"></a> Overview
 
