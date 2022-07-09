@@ -1,56 +1,49 @@
 # Frame
 
-[![01 Frame Front](Frame/01-Frame-Front.png)](_PDF/Frame/01-Frame-Front.pdf "01 Frame Front")
-[![02 Frame Back](Frame/02-Frame-Back.png)](_PDF/Frame/02-Frame-Back.pdf "02 Frame Back")
-[![03 Bottom Frame](Frame/03-Bottom-Frame.png)](_PDF/Frame/03-Bottom-Frame.pdf "03 Bottom Frame")
-[![04 Front Frame](Frame/04-Front-Frame.png)](_PDF/Frame/04-Front-Frame.pdf "04 Front Frame")
-[![05 Back Frame](Frame/05-Back-Frame.png)](_PDF/Frame/05-Back-Frame.pdf "05 Back Frame")
-[![06 Energy Subframe FL](Frame/06-Energy-Subframe-FL.png)](_PDF/Frame/06-Energy-Subframe-FL.pdf "06 Energy Subframe FL")
-[![07 Energy Subframe FR](Frame/07-Energy-Subframe-FR.png)](_PDF/Frame/07-Energy-Subframe-FR.pdf "07 Energy Subframe FR")
-[![08 Energy Subframe Plan View](Frame/08-Energy-Subframe-Plan-View.png)](_PDF/Frame/08-Energy-Subframe-Plan-View.pdf "08 Energy Subframe Plan View")
-[![09 Energy Subframe 2 Plan View](Frame/09-Energy-Subframe-2-Plan-View.png)](_PDF/Frame/09-Energy-Subframe-2-Plan-View.pdf "09 Energy Subframe 2 Plan View")
+[![01 Frame Front](Frame/01-Frame-Front.png)](Frame/01-Frame-Front.pdf "01 Frame Front")
+[![02 Frame Back](Frame/02-Frame-Back.png)](Frame/02-Frame-Back.pdf "02 Frame Back")
 
-Rectangular hollow, 25 x 25 mm angle, & 16 x 3 mm flat bar, steel.
+Made principally from…
 
-
-[![01 Frame Front](Frame/01-Frame-Front.png)](_PDF/Frame/01-Frame-Front.pdf)
-[![02 Frame Back](Frame/02-Frame-Back.png)](_PDF/Frame/02-Frame-Back.pdf)
+* 25x25 mm RHS
+* 15x15 mm RHS
+* 16x3 mm flat steel
+* 25x3 mm flat steel
 
 ## Bottom Frame
 
-[![03 Bottom Frame](Frame/03-Bottom-Frame.png)](_PDF/Frame/03-Bottom-Frame.pdf)
+[![03 Bottom Frame](Frame/03-Bottom-Frame.png)](Frame/03-Bottom-Frame.pdf "03 Bottom Frame")
 
-All 25x25 RHS. Bottom rails, 1300 mm long, spaced 475 mm apart with cross members as shown. Drawn with mitred end joins but don’t have to be joined that way. Butt joins would make a cutting list of just 2 x 25x25 RHS 1300 mm long, & 4 x 25x25 RHS 480 mm long.
-
-A mount for a reversing light might be required. That is drawn as 23x3 flat, 30 mm long, with an 8 mm hole in the centre. The hole could be further inside the frame.
+* All 25x25 RHS.
+* Bottom rails, 1300 mm long, spaced 480 mm apart.
+* Cross members, 480 mm long, positioned as shown.
 
 ## Front & Back Frames
 
 [![04 Front Frame](Frame/04-Front-Frame.png)](_PDF/Frame/04-Front-Frame.pdf)
 [![05 Back Frame](Frame/05-Back-Frame.png)](_PDF/Frame/05-Back-Frame.pdf)
 
-The front & back frames are mirror images of each other with 3 differences…
+The front & back frames are mirror images of each other with some differences.
 
-* The front frame is 100 mm taller,
-* The front frame has an additional vertical member at the LH end.
-* The back frame has a number plate mount attached.
-
-Both frames…
-
-* Have top members of 15x15 RHS 1582 long.
+* Top members of 15x15 RHS, 1582 long.
 * Assembled flush to the outside face.
 * Have vertical members of 16x3 flat attached as shown.
 
-Vertical members are 548 mm for the front frame & 448 mm for the back frame, for overall heights of 563 mm & 463 mm.
+### Front Frame
 
-Numbering the vertical members 1 being the additional vertical on the front frame & 5 being the RH vertical, the spacing between 1 & 2 should be equal to the spacing between 3 & 4 (so that there is only one width of drawer).
+* Vertical members are 548 mm for an overall height of 563 mm.
+* Has an additional vertical member, 185 mm long, attached *under* the LH end.
 
-The additional vertical on the front frame is 185 mm & attached under the LH end.
+### Back Frame
 
-The number plate mount to be attached as shown, flush to the outside face with the return facing inward.
+* Vertical members are 448 mm for an overall height of 463 mm.
+* Has a number plate mount attached as shown.
+* Has a 45° diagonal brace as shown.
 
-[![01 Number Plate Mount Top](Sheet-Metal/01-Number-Plate-Mount-Top.png)](_PDF/Sheet-Metal/01-Number-Plate-Mount-Top.pdf)
-[![02 Number Plate Mount Back](Sheet-Metal/02-Number-Plate-Mount-Back.png)](_PDF/Sheet-Metal/02-Number-Plate-Mount-Back.pdf)
+### Number Plate Mount
+
+[![01 Number Plate Mount Top](Sheet-Metal/01-Number-Plate-Mount-Top.png)](Sheet-Metal/01-Number-Plate-Mount-Top.pdf "01 Number Plate Mount Top")
+[![02 Number Plate Mount Back](Sheet-Metal/02-Number-Plate-Mount-Back.png)](Sheet-Metal/02-Number-Plate-Mount-Back.pdf "02 Number Plate Mount Back")
 
 ## Energy Subframe
 
@@ -61,7 +54,7 @@ A subframe to support gas bottle & batteries.
 
 Three sides of a rectangle 530 mm (one side) x 300 mm (both sides), made of 25x25 angle, as shown.
 
-Plan views of the energy subframe with horizontal & vertical betteries…
+Plan views of the energy subframe with horizontal & vertical batteries…
 
 [![08 Energy Subframe Plan View](Frame/08-Energy-Subframe-Plan-View.png)](_PDF/Frame/08-Energy-Subframe-Plan-View.pdf)
 [![09 Energy Subframe v2 Plan View](Frame/09-Energy-Subframe-2-Plan-View.png)](_PDF/Frame/09-Energy-Subframe-2-Plan-View.pdf)
@@ -101,9 +94,6 @@ The 25 mm cross member runs horizontally between the LH pair of verticals, at a 
 
 The energy rack is attached to the LH end of the bottom frame.
 
-[![01 Frame Front](Frame/01-Frame-Front.png)](Frame/01-Frame-Front.pdf "01 Frame Front")
-[![02 Frame Back](Frame/02-Frame-Back.png)](Frame/02-Frame-Back.pdf "02 Frame Back")
-[![03 Bottom Frame](Frame/03-Bottom-Frame.png)](Frame/03-Bottom-Frame.pdf "03 Bottom Frame")
 [![04 Front Frame](Frame/04-Front-Frame.png)](Frame/04-Front-Frame.pdf "04 Front Frame")
 [![05 Back Frame](Frame/05-Back-Frame.png)](Frame/05-Back-Frame.pdf "05 Back Frame")
 [![06 Energy Subframe FL](Frame/06-Energy-Subframe-FL.png)](Frame/06-Energy-Subframe-FL.pdf "06 Energy Subframe FL")
