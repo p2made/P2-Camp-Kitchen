@@ -32,12 +32,12 @@ A tow bar mounted camping kitchen.
 
 ##<a id="overview"></a> Overview
 
-[![01 Front](Overview/01-Front.png)](Overview/01-Front.pdf "01 Front")
-[![02 Back](Overview/02-Back.png)](Overview/02-Back.pdf "02 Back")
-[![03 Open Left](Overview/03-Open-Left.png)](Overview/03-Open-Left.pdf "03 Open Left")
-[![04 Open Right](Overview/04-Open-Right.png)](Overview/04-Open-Right.pdf "04 Open Right")
-[![05 Frame Front](Overview/05-Frame-Front.png)](Overview/05-Frame-Front.pdf "05 Frame Front")
-[![06 Frame Back](Overview/06-Frame-Back.png)](Overview/06-Frame-Back.pdf "06 Frame Back")
+[![01 Front](docs/Overview/01-Front.png)](docs/Overview/01-Front.pdf "01 Front")
+[![02 Back](docs/Overview/02-Back.png)](docs/Overview/02-Back.pdf "02 Back")
+[![03 Open Left](docs/Overview/03-Open-Left.png)](docs/Overview/03-Open-Left.pdf "03 Open Left")
+[![04 Open Right](docs/Overview/04-Open-Right.png)](docs/Overview/04-Open-Right.pdf "04 Open Right")
+[![05 Frame Front](docs/Overview/05-Frame-Front.png)](docs/Overview/05-Frame-Front.pdf "05 Frame Front")
+[![06 Frame Back](docs/Overview/06-Frame-Back.png)](docs/Overview/06-Frame-Back.pdf "06 Frame Back")
 
 ##<a id="notes"></a> *Notes*
 
@@ -45,16 +45,31 @@ A tow bar mounted camping kitchen.
 
 ##<a id="abbreviations"></a> Abbreviations
 
-To be concise a number of arbitrary abbreviations are used. These are all defined here.
+To be concise a number of arbitrary abbreviations are used throughout these docs. These are all defined here.
 
-<dl>
-	<dt>LH</dt><dd>Left Hand</dd>
-	<dt>LF</dt><dd>Left hand Front</dd>
-	<dt>LB</dt><dd>Left hand Back</dd>
-	<dt>RH</dt><dd>Right Hand</dd>
-	<dt>RF</dt><dd>Right hand Front</dd>
-	<dt>RB</dt><dd>Right hand Back</dd>
-	<dt>D</dt><dd>Drawer</dd>
-	<dt>Dn</dt><dd>Drawer 1 to 5</dd>
-</dl>
+<table>
+	<tr valign="top">
+		<td width="33%">
+			<dl>
+				<dt>LH</dt><dd>Left Hand</dd>
+				<dt>LF</dt><dd>Left hand Front</dd>
+				<dt>LB</dt><dd>Left hand Back</dd>
+			</dl>
+		</td>
+		<td width="33%">
+			<dl>
+				<dt>RH</dt><dd>Right Hand</dd>
+				<dt>RF</dt><dd>Right hand Front</dd>
+				<dt>RB</dt><dd>Right hand Back</dd>
+			</dl>
+		</td>
+		<td width="33%">
+			<dl>
+				<dt>D</dt><dd>Drawer</dd>
+				<dt>Dn</dt><dd>Drawer 1 to 5</dd>
+			</dl>
+		</td>
+	</tr>
+</table>
+
 
