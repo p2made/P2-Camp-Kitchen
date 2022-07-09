@@ -6,6 +6,13 @@ A tow bar mounted camping kitchen.
 ![Kitchen on Challenger 2](Kitchen-on-Challenger-2.png)
 
 --
+## Index
+
+1. [Overview](#overview)
+2. [Notes](#notes)
+3. [Abbreviations](#abbreviations)
+
+## Docs
 
 1. [Frame](docs/_PDF/Frame.md) ([PDF](docs/Frame.pdf))
 1. [Plywood](docs/_PDF/Plywood.md) ([PDF](docs/Plywood.pdf))
@@ -26,6 +33,8 @@ A tow bar mounted camping kitchen.
 1. Undercarriage
 <!--1. [Undercarriage](docs/_PDF/Undercarriage.md) ([PDF](docs/Undercarriage.pdf))-->
 
+## Overview
+
 ![01 Front](docs/Overview/01-Front.png)
 ![02 Back](docs/Overview/02-Back.png)
 ![03 Open Left](docs/Overview/03-Open-Left.png)
@@ -33,18 +42,21 @@ A tow bar mounted camping kitchen.
 ![05 Frame Front](docs/Overview/05-Frame-Front.png)
 ![06 Frame Back](docs/Overview/06-Frame-Back.png)
 
-## *Note*
+## *Notes*
 
 “Front”, “Back”, “Left”, & “Right” are from the viewpoint of facing the 1600 mm side that is the kitchen front when deployed & to the front when stowed. That makes “left” & “right” opposite to car driver’s seat viewpoint.
 
 ## Abbreviations
 
-* **D** - Drawer
-* **Dn** - Drawer 1 to 5
-* **LH** - Left Hand
-* **LB** - Left hand Back
-* **LF** - Left hand Front
-* **RH** - Right Hand
-* **RB** - Right hand Back
-* **RF** - Right hand Front
+<dl>
+	<dt>LH</dt><dd>Left Hand</dd>
+	<dt>LF</dt><dd>Left hand Front</dd>
+	<dt>LB</dt><dd>Left hand Back</dd>
+	<dt>RH</dt><dd>Right Hand</dd>
+	<dt>RF</dt><dd>Right hand Front</dd>
+	<dt>RB</dt><dd>Right hand Back</dd>
+	<dt>D</dt><dd>Drawer</dd>
+	<dt>Dn</dt><dd>Drawer 1 to 5</dd>
+</dl>
+
 
