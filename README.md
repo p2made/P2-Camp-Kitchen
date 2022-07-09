@@ -2,8 +2,8 @@
 
 A tow bar mounted camping kitchen.
 
-[![01 On Challenger Closed](docs/Overview/01-On-Challenger-Closed.png)](docs/Overview/01-On-Challenger-Closed.pdf "01 On Challenger Closed")
-[![02 On Challenger Open](docs/Overview/02-On-Challenger-Open.png)](docs/Overview/02-On-Challenger-Open.pdf "02 On Challenger Open")
+![01 On Challenger Closed](docs/Overview/01-On-Challenger-Closed.png)
+![02 On Challenger Open](docs/Overview/02-On-Challenger-Open.png)
 
 --
 ## Index
