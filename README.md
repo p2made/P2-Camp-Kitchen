@@ -30,6 +30,8 @@ A tow bar mounted camping kitchen.
 9. Assemblies
 <!--9. [Assemblies](docs/Assemblies.md) ([PDF](docs/Assemblies.pdf))-->
 
+[PDF of this document](README.pdf).
+
 ##<a id="overview"></a> Overview
 
 [![01 Front](docs/Overview/01-Front.png)](docs/Overview/01-Front.pdf "01 Front")
