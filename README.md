@@ -2,8 +2,8 @@
 
 A tow bar mounted camping kitchen.
 
-![Kitchen on Challenger 1](Kitchen-on-Challenger-1.png)
-![Kitchen on Challenger 2](Kitchen-on-Challenger-2.png)
+[![01 On Challenger Closed](docs/Overview/01-On-Challenger-Closed.png)](docs/Overview/01-On-Challenger-Closed.pdf "01 On Challenger Closed")
+[![02 On Challenger Open](docs/Overview/02-On-Challenger-Open.png)](docs/Overview/02-On-Challenger-Open.pdf "02 On Challenger Open")
 
 --
 ## Index
@@ -34,12 +34,12 @@ A tow bar mounted camping kitchen.
 
 ## <a id="overview"></a> Overview
 
-[![01 Front](docs/Overview/01-Front.png)](docs/Overview/01-Front.pdf "01 Front")
-[![02 Back](docs/Overview/02-Back.png)](docs/Overview/02-Back.pdf "02 Back")
-[![03 Open Left](docs/Overview/03-Open-Left.png)](docs/Overview/03-Open-Left.pdf "03 Open Left")
-[![04 Open Right](docs/Overview/04-Open-Right.png)](docs/Overview/04-Open-Right.pdf "04 Open Right")
-[![05 Frame Front](docs/Overview/05-Frame-Front.png)](docs/Overview/05-Frame-Front.pdf "05 Frame Front")
-[![06 Frame Back](docs/Overview/06-Frame-Back.png)](docs/Overview/06-Frame-Back.pdf "06 Frame Back")
+[![03 Front](docs/Overview/03-Front.png)](docs/Overview/03-Front.pdf "03 Front")
+[![04 Back](docs/Overview/04-Back.png)](docs/Overview/04-Back.pdf "04 Back")
+[![05 Open Left](docs/Overview/05-Open-Left.png)](docs/Overview/05-Open-Left.pdf "05 Open Left")
+[![06 Open Right](docs/Overview/06-Open-Right.png)](docs/Overview/06-Open-Right.pdf "06 Open Right")
+[![07 Frame Front](docs/Overview/07-Frame-Front.png)](docs/Overview/07-Frame-Front.pdf "07 Frame Front")
+[![08 Frame Back](docs/Overview/08-Frame-Back.png)](docs/Overview/08-Frame-Back.pdf "08 Frame Back")
 
 ## <a id="notes"></a> *Notes*
 
