@@ -2,6 +2,8 @@
 
 ## Sink
 
+Drawing is model of 2nd hand caravan sink. Has a mixer tap fitted.
+
 [![01 Sink](Components/01-Sink.png)](Components/01-Sink.pdf "01 Sink")
 
 ## Stove
@@ -38,3 +40,8 @@ Will be modified to sit at approximately 45 degrees, & Energy Rack.
 [eBay purchase](https://www.ebay.com.au/itm/293101007284)
 
 Will be fitted underneath Base. Selected item has lighting to be part of safety lighting.
+
+## Legs
+
+[![04 Leg-Single-Adjust](Components/04-Leg Single Adjust.png)](Components/04-Leg Single Adjust.pdf "04 Leg-Single-Adjust")
+[![05 Leg-Double-Adjust](Components/05-Leg Double Adjust.png)](Components/05-Leg Double Adjust.pdf "05 Leg-Double-Adjust")
