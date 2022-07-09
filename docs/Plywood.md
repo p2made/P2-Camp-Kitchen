@@ -11,45 +11,63 @@ Where there is no drawing, there is either...
 
 Five cross members, LH, RH, & 1 to 3 numbered LH to RH.
 
-Routing is 3mm deep & 18 mm wide for 16 x 3 mm flat steel to fit flush within.
+Routing is 3mm deep & drawn with 2 mm with clearance.
 
-**End Panel LH:** 530 x 250 mm, with hole for water hoses, hole for clearance light, & cutout for gas bottle access.
+### End Panel LH
 
-[![A4-01 End Panel LH](Plywood/A4-01-End-Panel-LH.png)](Plywood/A4-01-End-Panel-LH.pdf)
+* 530 x 250 mm.
+* Hole for water hoses.
+* Hole (drawn) or recess for clearance light.
+* Cutout for gas bottle access.
 
-**End Panel RH:** 530 x 563 mm, with hole for clearance light.
+[![01 End Panel LH](Plywood/01-End-Panel-LH.png)](Plywood/01-End-Panel-LH.pdf "01 End Panel LH")
 
-[![A4-02 End Panel RH](Plywood/A4-02-End-Panel-RH.png)](Plywood/A4-02-End-Panel-RH.pdf)
+### End Panel RH
 
-**Cross Panel 1:** 530 x 563 mm, with hole for gas hose movement, & cutouts for frame top rails, pipe & wiring, & LH back panel. Horizontal routed channel is 27 mm for 25 x 3 mm flat steel.
+* 530 x 563 mm.
+* Hole (drawn) or recess for clearance light.
 
-[![A4-03 Cross Panel 1](Plywood/A4-03-Cross-Panel-1.png)](Plywood/A4-03-Cross-Panel-1.pdf)
+[![02 End Panel RH](Plywood/02-End-Panel-RH.png)](Plywood/02-End-Panel-RH.pdf "02 End Panel RH")
 
-**Cross Panel 2:** 518 x 563 mm, with cutouts for frame top rails, & pipe & wiring.
+### Cross Panel 1
 
-[![A4-04 Cross Panel 2](Plywood/A4-04-Cross-Panel-2.png)](Plywood/A4-04-Cross-Panel-2.pdf)
+* 530 x 563 mm.
+* Hole for gas hose movement.
+* Cutouts for frame top rails.
+* Cutout for pipe & wiring.
+* Cutout for LH back panel.
 
-**Cross Panel 3:** Mirror of panel 3.
+[![03 Cross Panel 1](Plywood/03-Cross-Panel-1.png)](Plywood/03-Cross-Panel-1.pdf "03 Cross Panel 1")
 
-[![A4-05 Cross Panel 3](Plywood/A4-05-Cross-Panel-3.png)](Plywood/A4-05-Cross-Panel-3.pdf)
+### Cross Panel 2
+
+* 518 x 563 mm.
+* Cutouts for frame top rails.
+* Cutout for pipe & wiring.
+
+[![04 Cross Panel 2](Plywood/04-Cross-Panel-2.png)](Plywood/04-Cross-Panel-2.pdf "04 Cross Panel 2")
+
+### Cross Panel 3
+
+* Mirror of cross panel 2.
+
+[![05 Cross Panel 3](Plywood/05-Cross-Panel-3.png)](Plywood/05-Cross-Panel-3.pdf "05 Cross Panel 3")
 
 ## Back Panels
 
 Two back panels, both having holes for mounting taillights.
 
-**LH Back Panel:** 300 x 115 mm.
+* Back Panel LH: 300 x 115 mm.
+* Back Panel RH: 722 x 563 mm.
 
-[![A4-06 Back Panel LH](Plywood/A4-06-Back-Panel-LH.png)](Plywood/A4-06-Back-Panel-LH.pdf)
-
-**RH Back Panel:** 722 x 563 mm.
-
-[![A4-07 Back Panel RH](Plywood/A4-07-Back-Panel-RH.png)](Plywood/A4-07-Back-Panel-RH.pdf)
+[![06 Back Panel LH](Plywood/06-Back-Panel-LH.png)](Plywood/06-Back-Panel-LH.pdf "06 Back Panel LH")
+[![07 Back Panel RH](Plywood/07-Back-Panel-RH.png)](Plywood/07-Back-Panel-RH.pdf "07 Back Panel RH")
 
 ## Benchtop
 
 1600 x 530 mm, with hole for sink & cutout for wiring to splash back.
 
-[![A4-08 Benchtop](Plywood/A4-08-Benchtop.png)](Plywood/A4-08-Benchtop.pdf)
+[![08 Benchtop](Plywood/08-Benchtop.png)](Plywood/08-Benchtop.pdf "08 Benchtop")
 
 ## Drawers
 
@@ -74,11 +92,11 @@ Door 406 x 555 mm. Provision for hardware not yet shown.
 
 Floor 384 x 480 mm. Requires an opening at LB corner for passage of sink waste hose (drawn as 70 mm radius quarter circle).
 
-[![A4-13 Cupboard Floor](Plywood/A4-13-Cupboard-Floor.png)](Plywood/A4-13-Cupboard-Floor.pdf)
+[![13 Cupboard Floor](Plywood/13-Cupboard-Floor.png)](Plywood/13-Cupboard-Floor.pdf "13 Cupboard Floor")
 
 Shelf 410 x 500 mm. Requires hole under centre of sink bowl for passage of sink waste hose (drawn as 70 diameter but smaller would be preferable).
 
-[![A4-14 Cupboard Shelf](Plywood/A4-14-Cupboard-Shelf.png)](Plywood/A4-14-Cupboard-Shelf.pdf)
+[![14 Cupboard Shelf](Plywood/14-Cupboard-Shelf.png)](Plywood/14-Cupboard-Shelf.pdf "14 Cupboard Shelf")
 
 ## Splash Back
 
@@ -98,3 +116,4 @@ Pieces are…
 ## End Shelf
 
 400 x 530 mm. To attach to RH end when deployed.
+

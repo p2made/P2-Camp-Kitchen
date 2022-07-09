@@ -1,64 +1,69 @@
 # Frame
 
-Rectangular hollow, 25 x 25 mm angle, & 16 x 3 mm flat bar, steel.
+[![01 Frame Front](Frame/01-Frame-Front.png)](Frame/01-Frame-Front.pdf "01 Frame Front")
+[![02 Frame Back](Frame/02-Frame-Back.png)](Frame/02-Frame-Back.pdf "02 Frame Back")
 
+Made principally from…
 
-[![A4-01 Frame Front](Frame/A4-01-Frame-Front.png)](Frame/A4-01-Frame-Front.pdf)
-[![A4-02 Frame Back](Frame/A4-02-Frame-Back.png)](Frame/A4-02-Frame-Back.pdf)
+* 25x25 mm RHS
+* 15x15 mm RHS
+* 16x3 mm flat steel
+* 25x3 mm flat steel
 
 ## Bottom Frame
 
-[![A4-03 Bottom Frame](Frame/A4-03-Bottom-Frame.png)](Frame/A4-03-Bottom-Frame.pdf)
+[![03 Bottom Frame](Frame/03-Bottom-Frame.png)](Frame/03-Bottom-Frame.pdf "03 Bottom Frame")
 
-All 25x25 RHS. Bottom rails, 1300 mm long, spaced 475 mm apart with cross members as shown. Drawn with mitred end joins but don’t have to be joined that way. Butt joins would make a cutting list of just 2 x 25x25 RHS 1300 mm long, & 4 x 25x25 RHS 480 mm long.
-
-A mount for a reversing light might be required. That is drawn as 23x3 flat, 30 mm long, with an 8 mm hole in the centre. The hole could be further inside the frame.
+* All 25x25 RHS.
+* Bottom rails, 1300 mm long, spaced 480 mm apart.
+* Cross members, 480 mm long, positioned as shown.
 
 ## Front & Back Frames
 
-[![A4-04 Front Frame](Frame/A4-04-Front-Frame.png)](Frame/A4-04-Front-Frame.pdf)
-[![A4-05 Back Frame](Frame/A4-05-Back-Frame.png)](Frame/A4-05-Back-Frame.pdf)
+[![04 Front Frame](Frame/04-Front-Frame.png)](Frame/04-Front-Frame.pdf "04 Front Frame")
+[![05 Back Frame](Frame/05-Back-Frame.png)](Frame/05-Back-Frame.pdf "05 Back Frame")
 
-The front & back frames are mirror images of each other with 3 differences…
+The front & back frames are mirror images of each other with some differences.
 
-* The front frame is 100 mm taller,
-* The front frame has an additional vertical member at the LH end.
-* The back frame has a number plate mount attached.
-
-Both frames…
-
-* Have top members of 15x15 RHS 1582 long.
+* Top members of 15x15 RHS, 1582 long.
 * Assembled flush to the outside face.
 * Have vertical members of 16x3 flat attached as shown.
 
-Vertical members are 548 mm for the front frame & 448 mm for the back frame, for overall heights of 563 mm & 463 mm.
+### Front Frame
 
-Numbering the vertical members 1 being the additional vertical on the front frame & 5 being the RH vertical, the spacing between 1 & 2 should be equal to the spacing between 3 & 4 (so that there is only one width of drawer).
+* Vertical members are 548 mm for an overall height of 563 mm.
+* Has an additional vertical member, 185 mm long, attached *under* the LH end.
 
-The additional vertical on the front frame is 185 mm & attached under the LH end.
+### Back Frame
 
-The number plate mount to be attached as shown, flush to the outside face with the return facing inward.
+* Vertical members are 448 mm for an overall height of 463 mm.
+* Has a number plate mount attached as shown.
+* Has a 45° diagonal brace as shown.
 
-[![A4-01 Number Plate Mount Top](Sheet-Metal/A4-01-Number-Plate-Mount-Top.png)](Sheet-Metal/A4-01-Number-Plate-Mount-Top.pdf)
-[![A4-02 Number Plate Mount Back](Sheet-Metal/A4-02-Number-Plate-Mount-Back.png)](Sheet-Metal/A4-02-Number-Plate-Mount-Back.pdf)
+### Number Plate Mount
+
+[![01 Number Plate Mount Top](Sheet-Metal/01-Number-Plate-Mount-Top.png)](Sheet-Metal/01-Number-Plate-Mount-Top.pdf "01 Number Plate Mount Top")
+[![02 Number Plate Mount Back](Sheet-Metal/02-Number-Plate-Mount-Back.png)](Sheet-Metal/02-Number-Plate-Mount-Back.pdf "02 Number Plate Mount Back")
 
 ## Energy Subframe
 
-[![A4-06 Energy Subframe FL](Frame/A4-06-Energy-Subframe-FL.png)](Frame/A4-06-Energy-Subframe-FL.pdf)
-[![A4-07 Energy Subframe FR](Frame/A4-07-Energy-Subframe-FR.png)](Frame/A4-07-Energy-Subframe-FR.pdf)
+[![06 Energy Subframe FL](Frame/06-Energy-Subframe-FL.png)](Frame/06-Energy-Subframe-FL.pdf "06 Energy Subframe FL")
+[![07 Energy Subframe FR](Frame/07-Energy-Subframe-FR.png)](Frame/07-Energy-Subframe-FR.pdf "07 Energy Subframe FR")
 
 A subframe to support gas bottle & batteries.
 
 Three sides of a rectangle 530 mm (one side) x 300 mm (both sides), made of 25x25 angle, as shown.
 
-Plan views of the energy subframe with horizontal & vertical betteries…
+Plan views of the energy subframe with horizontal & vertical batteries…
 
-[![A4-08 Energy Subframe Plan View](Frame/A4-08-Energy-Subframe-Plan-View.png)](Frame/A4-08-Energy-Subframe-Plan-View.pdf)
-[![A4-09 Energy Subframe v2 Plan View](Frame/A4-09-Energy-Subframe-2-Plan-View.png)](Frame/A4-09-Energy-Subframe-2-Plan-View.pdf)
+[![08 Energy Subframe Plan View](Frame/08-Energy-Subframe-Plan-View.png)](Frame/08-Energy-Subframe-Plan-View.pdf "08 Energy Subframe Plan View")
+[![09 Energy Subframe 2 Plan View](Frame/09-Energy-Subframe-2-Plan-View.png)](Frame/09-Energy-Subframe-2-Plan-View.pdf "09 Energy Subframe 2 Plan View")
 
 ### Gas Bottle Holder
 
-The gas bottle holder is an [eBay purchase](https://www.ebay.com.au/itm/254621457008). It will be modified to sit at approximately 45 degrees within the  Energy Subframe to permit opening without interference.
+* An [eBay purchase](https://www.ebay.com.au/itm/254621457008).
+* To be modified to sit at approximately 45 degrees within the  Energy Subframe to permit opening without interference.
+* Drawings show it positioned 3 mm inside the imagary back face, & centred left to right.
 
 ![gas-bottle-holder](_images/gas-bottle-holder.jpeg)
 
@@ -71,9 +76,9 @@ The battery holder as shown is for illustration only. It may be however the engi
 * The spaces between the batteries, & between the imaginary RH surface of the subframe, are approximately equal.
 * The batteries are retained & kept in position by a simple, yet secure, means.
 
-The diagonal brace shown is a possible way to maintain battery position in that direction while adding support to the structure.
+The diagonal brace shown is a possible way to maintain battery position in the back direction while adding support to the structure.
 
-[![A4-03 Battery Clamp](Sheet-Metal/A4-03-Battery-Clamp.png)](Sheet-Metal/A4-03-Battery-Clamp.pdf)
+[![03 Battery Clamp](Sheet-Metal/03-Battery-Clamp.png)](_PDF/Sheet-Metal/03-Battery-Clamp.pdf)
 
 ## Assembly
 
@@ -87,6 +92,7 @@ There are 2 x cross members of 16 x 3 mm flat, & one cross member of 25 x 3 mm f
 
 The 16 mm cross members are flush in the end planes of the top rails, running horizontally from the inside face of the back top rail to the adjacent front vertical.
 
-The 25 mm cross member runs horizontally between the LH pair of verticals, at a height for attachment to the band of the gas bottle holder (with a spacer if appropriate).
+The 25 mm cross member runs horizontally between the LH pair of verticals, at a height for attachment to the band of the gas bottle holder (with a spacer if appropriate). The actual height must be advised for appliction to plywood cutting.
 
 The energy rack is attached to the LH end of the bottom frame.
+
