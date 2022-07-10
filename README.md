@@ -30,7 +30,7 @@ A tow bar mounted camping kitchen.
 
 [PDF of this document](README.pdf).
 
-##<a id="overview"></a> Overview
+## <a id="overview"></a> Overview
 
 [![03 Front](docs/Overview/03-Front.png)](docs/Overview/03-Front.pdf "03 Front")
 [![04 Back](docs/Overview/04-Back.png)](docs/Overview/04-Back.pdf "04 Back")
@@ -39,7 +39,7 @@ A tow bar mounted camping kitchen.
 [![07 Frame Front](docs/Overview/07-Frame-Front.png)](docs/Overview/07-Frame-Front.pdf "07 Frame Front")
 [![08 Frame Back](docs/Overview/08-Frame-Back.png)](docs/Overview/08-Frame-Back.pdf "08 Frame Back")
 
-##<a id="notes"></a> *Notes*
+## <a id="notes"></a> *Notes*
 
 “Front”, “Back”, “Left”, & “Right” are from the viewpoint of facing the 1600 mm side that is the kitchen front when deployed & to the front when stowed. That makes “left” & “right” opposite to car driver’s seat viewpoint.
 
