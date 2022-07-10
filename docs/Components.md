@@ -29,11 +29,11 @@ Two possible versions are drawn…
 
 Version 1, with screw adjustment only.
 
-[![04 Leg-Single-Adjust](Components/04-Leg Single Adjust.png)](Components/04-Leg Single Adjust.pdf "04 Leg-Single-Adjust")
+[![04 Leg-Single-Adjust](Components/04-Leg Single Adjust.png)](Components/04-Leg-Single-Adjust.pdf "04 Leg-Single-Adjust")
 
 Version 2, with slide & screw adjustment.
 
-[![05 Leg-Double-Adjust](Components/05-Leg Double Adjust.png)](Components/05-Leg Double Adjust.pdf "05 Leg-Double-Adjust")
+[![05 Leg-Double-Adjust](Components/05-Leg Double Adjust.png)](Components/05-Leg-Double-Adjust.pdf "05 Leg-Double-Adjust")
 
 ## Fridge Tray
 
