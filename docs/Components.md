@@ -2,11 +2,11 @@
 
 1. [Sink](#01)
 2. [Stove](#02)
-3. [Closer Views of Lid Closed & Lid Open](#03)
-4. [Superimposed Lid Positions](#04)
-5. [Stove Detail](#05)
-6. [Sink Detail](#06)
-7. [Front & Back Views of Energy Subframe](#07)
+3. [Gas Bottle Holder](#03)
+4. [Legs](#04)
+5. [Fridge Tray](#05)
+6. [Caravan Level](#06)
+7. [Caravan Step](#07)
 
 --
 
@@ -22,14 +22,14 @@ The stove has cast iron legs attached at the corners with bolts. By replacing th
 
 [![02 Stove](Components/02-Stove.png)](Components/02-Stove.pdf "02 Stove")
 
-## Gas bottle holder
+## <a id="03"></a> Gas Bottle Holder
 
 * [eBay purchase](https://www.ebay.com.au/itm/254621457008)
 * To be modified to sit at approximately 45 degrees within the energy subframe.
 
 ![gas-bottle-holder](_images/gas-bottle-holder.jpeg)
 
-## Legs
+## <a id="04"></a> Legs
 
 * The box should have 2 or 3 adjustable legs to support it in a level position in camp.
 * The legs could either be permanently attached on pivots & swing down at camp setup, or be inserted into sockets at camp setup.
@@ -45,7 +45,7 @@ Version 2, with slide & screw adjustment.
 
 [![05 Leg-Double-Adjust](Components/05-Leg-Double-Adjust.png)](Components/05-Leg-Double-Adjust.pdf "05 Leg-Double-Adjust")
 
-## Fridge Tray
+## <a id="05"></a> Fridge Tray
 
 * A rudimentay 'tray' to support the fridge between drawer rails.
 * Vertical portions of the sides must be deep enough for attachment of drawer rails.
@@ -54,14 +54,14 @@ Version 2, with slide & screw adjustment.
 
 [![03 Fridge Tray](Components/03-Fridge-Tray.png)](Components/03-Fridge-Tray.pdf "03 Fridge Tray")
 
-## Caravan level
+## <a id="06"></a> Caravan Level
 
 * [eBay purchase](https://www.ebay.com.au/itm/125243519326)
 * To be mounted on benchtop as an aid to levelling at camp setup.
 
 ![caravan-level](_images/caravan-level.jpeg)
 
-## Caravan step
+## <a id="07"></a> Caravan Step
 
 * [eBay purchase](https://www.ebay.com.au/itm/293101007284)
 * To be fitted underneath Base.
