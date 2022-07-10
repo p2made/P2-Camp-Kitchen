@@ -1,12 +1,22 @@
 # Components
 
-## Sink
+1. [Sink](#01)
+2. [Stove](#02)
+3. [Closer Views of Lid Closed & Lid Open](#03)
+4. [Superimposed Lid Positions](#04)
+5. [Stove Detail](#05)
+6. [Sink Detail](#06)
+7. [Front & Back Views of Energy Subframe](#07)
+
+--
+
+## <a id="01"></a> Sink
 
 Drawing is model of 2nd hand caravan sink. Has a mixer tap fitted.
 
 [![01 Sink](Components/01-Sink.png)](Components/01-Sink.pdf "01 Sink")
 
-## Stove
+## <a id="02"></a> Stove
 
 The stove has cast iron legs attached at the corners with bolts. By replacing the original legs with spacers (standoffs, angle, 15x15 RHS), & using longer bolts, the stove can be solidly attached to the benchtop.
 
