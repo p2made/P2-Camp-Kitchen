@@ -1,5 +1,16 @@
 # Plywood
 
+1. [Cross Panels](#01)
+2. [Back Panels](#02)
+3. [Benchtop](#03)
+4. [Drawers](#04)
+5. [Cupboard](#05)
+6. [Splash Back](#06)
+7. [Lid](#07)
+8. [End Shelf](#08)
+
+--
+
 Pieces cut from 12 mm marine ply.
 
 Where there is no drawing, there is either...
@@ -7,11 +18,10 @@ Where there is no drawing, there is either...
 * No additional detail, or
 * Additional details haven't yet been drawn.
 
-## Cross Panels
+## <a id="01"></a> Cross Panels
 
-Five cross members, LH, RH, & 1 to 3 numbered LH to RH.
-
-Routing is 3mm deep & drawn with 2 mm with clearance.
+* Five cross members, LH, RH, & 1 to 3 numbered LH to RH.
+* Routing is 3mm deep & drawn with 2 mm with clearance.
 
 ### End Panel LH
 
@@ -53,7 +63,7 @@ Routing is 3mm deep & drawn with 2 mm with clearance.
 
 [![05 Cross Panel 3](Plywood/05-Cross-Panel-3.png)](Plywood/05-Cross-Panel-3.pdf "05 Cross Panel 3")
 
-## Back Panels
+## <a id="02"></a> Back Panels
 
 Two back panels, both having holes for mounting taillights.
 
@@ -63,13 +73,15 @@ Two back panels, both having holes for mounting taillights.
 [![06 Back Panel LH](Plywood/06-Back-Panel-LH.png)](Plywood/06-Back-Panel-LH.pdf "06 Back Panel LH")
 [![07 Back Panel RH](Plywood/07-Back-Panel-RH.png)](Plywood/07-Back-Panel-RH.pdf "07 Back Panel RH")
 
-## Benchtop
+## <a id="03"></a> Benchtop
 
-1600 x 530 mm, with hole for sink & cutout for wiring to splash back.
+* 1600 x 530 mm.
+* Hole for sink.
+* Cutout for wiring to splash back.
 
 [![08 Benchtop](Plywood/08-Benchtop.png)](Plywood/08-Benchtop.pdf "08 Benchtop")
 
-## Drawers
+## <a id="04"></a> Drawers
 
 Provision for hardware not yet shown.
 
@@ -84,9 +96,9 @@ Drawers 1 & 2 are special purpose drawers…
 * Drawer 1, 350 mm long with the bottom set high for an effective depth of 50 mm.
 * Drawer 2, 250 mm long with a rail across the top back instead of a back panel, so that there is a large opening for wiring.
 
-The rest of the drawers are entirely standard, & as long as possible.
+The rest of the drawers are entirely standard, & as long as possible. Some internal division in drawers 3 & 4 may be desirable.
 
-## Cupboard
+## <a id="05"></a> Cupboard
 
 Door 406 x 555 mm. Provision for hardware not yet shown.
 
@@ -98,11 +110,12 @@ Shelf 410 x 500 mm. Requires hole under centre of sink bowl for passage of sink 
 
 [![14 Cupboard Shelf](Plywood/14-Cupboard-Shelf.png)](Plywood/14-Cupboard-Shelf.pdf "14 Cupboard Shelf")
 
-## Splash Back
+## <a id="06"></a> Splash Back
 
-1570 x 100 mm, with holes near centre for switchgear.
+* 1570 x 100 mm.
+* Holes (not yet drwan) near centre for switchgear.
 
-## Lid
+## <a id="07"></a> Lid
 
 Provision for hardware not yet shown.
 
@@ -113,7 +126,8 @@ Pieces are…
 * 1600 x 100 mm for front.
 * 2 of 518 x 100 mm for ends.
 
-## End Shelf
+## <a id="08"></a> End Shelf
 
-400 x 530 mm. To attach to RH end when deployed.
+* 400 x 530 mm.
+* To attach to RH end when deployed.
 
