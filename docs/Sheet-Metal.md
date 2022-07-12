@@ -42,6 +42,7 @@ Back rail (same as front with cutout for access to pilot light hole).
 
 * To complement the sink in making a full stainless steel surface for the benchtop.
 * Should have holes (not yet drawn) for stove attachment.
+* Drawn as 1 mm, but should match the thickness of sink steel.
 
 [![07 Stainless Steel Top](Sheet-Metal/07-Stainless-Steel-Top.png)](Sheet-Metal/07-Stainless-Steel-Top.pdf "07 Stainless Steel Top")
 
@@ -50,6 +51,7 @@ Back rail (same as front with cutout for access to pilot light hole).
 * A cover for the top & rear of splash back.
 * Has a return section to enclose pipes & wiring above fridge.
 * Dimensions shown are *inside* the folds.
+* Drawn as 1 mm, but should be less.
 
 [![08 Splash Back Cover](Sheet-Metal/08-Splash-Back-Cover.png)](Sheet-Metal/08-Splash-Back-Cover.pdf "08 Splash Back Cover")
 [![09 Splash Back Cover End](Sheet-Metal/09-Splash-Back-Cover-End.png)](Sheet-Metal/09-Splash-Back-Cover-End.pdf "09 Splash Back Cover End")
