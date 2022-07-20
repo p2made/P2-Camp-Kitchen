@@ -102,7 +102,7 @@ There are 2 x cross members of 16 x 3 mm flat, & one cross member of 25 x 3 mm f
 
 The 16 mm cross members are flush in the end planes of the top rails, running horizontally from the inside face of the back top rail to the adjacent front vertical.
 
-The 25 mm cross member runs horizontally between the LH pair of verticals, at a height for attachment to the band of the gas bottle holder (with a spacer if appropriate). The actual height must be advised for appliction to plywood cutting.
+The 25 mm cross member runs horizontally between the LH pair of verticals, at a height for attachment to the band of the gas bottle holder (with a spacer if necessary). The actual height must be advised for appliction to plywood cutting.
 
 The energy rack is attached to the LH end of the bottom frame.
 
