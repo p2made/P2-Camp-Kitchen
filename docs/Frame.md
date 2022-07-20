@@ -42,7 +42,8 @@ The front & back frames are mirror images of each other with some differences.
 ### Front Frame
 
 * Vertical members are 548 mm for an overall height of 563 mm.
-* Has an additional vertical member, 185 mm long, attached *under* the LH end.
+* Has an additional vertical member, 185 mm long, drawn attached *under* the LH end.
+* That additional vertical member could be attached over the end by making appropriate adjustments to dimensions. It has been drawn attached under to minimise the number of items in a cutting list.
 
 ### Back Frame
 
