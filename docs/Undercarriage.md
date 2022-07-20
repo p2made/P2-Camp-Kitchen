@@ -2,7 +2,7 @@
 
 1. [Overview](#01)
 2. [Base](#02)
-3. [Front & Back Frames](#03)
+3. [Under Frame](#03)
 4. [Energy Subframe](#04)
 5. [Assembly](#05)
 
@@ -29,15 +29,19 @@ The design intention is for the bottom front rail of the box frame to be positio
 * The base mounts to the vehicle with the central tube serving as shank tube & going into the receiver.
 * The length of the shank tube is drawn to go the full 130 mm depth of the receiver on my vehicle. Making it a few mm shorter may be desirable.
 * Hole to suit 5/8" hitch pin needs to be positioned to suit the receiver on my vehicle & is not drawn.
-* 
+* Cross pieces to facilitate attachment of the step (see [Components](Components.md)) need to be add as the engineer sees fit.
+
+The 1050 mm dimension above puts the angled members at 45°, however that only needs to be wide enough to fit the step underneath. The alternate drawing below makes that 600 mm (width of the step rounded up to 100 mm).
 
 [![03a Base Dimensioned Alternate](Undercarriage/03a-Base-Dimensioned-Alternate.png)](Undercarriage/03a-Base-Dimensioned-Alternate.pdf "03a Base Dimensioned Alternate")
 
-<!--
+## <a id="03"></a> Under Frame
+
 [![04 Under Frame](Undercarriage/04-Under-Frame.png)](Undercarriage/04-Under-Frame.pdf "04 Under Frame")
 [![05 Under Frame Dimensioned](Undercarriage/05-Under-Frame-Dimensioned.png)](Undercarriage/05-Under-Frame-Dimensioned.pdf "05 Under Frame Dimensioned")
 [![06 Under Frame Detail](Undercarriage/06-Under-Frame-Detail.png)](Undercarriage/06-Under-Frame-Detail.pdf "06 Under Frame Detail")
 
+<!--
 ## Pivot
 
 [![07 Base Pivot](Undercarriage/07-Base-Pivot.png)](Undercarriage/07-Base-Pivot.pdf "07 Base Pivot")
