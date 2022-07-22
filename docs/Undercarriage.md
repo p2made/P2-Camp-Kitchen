@@ -24,9 +24,11 @@ The design intention is for the bottom front rail of the box frame to be positio
 ## <a id="02"></a> Base
 
 [![02 Base](Undercarriage/02-Base.png)](Undercarriage/02-Base.pdf "02 Base")
+
+The base mounts to the vehicle with the central tube serving as shank tube & going into the receiver on the vehicle.
+
 [![03 Base Dimensioned](Undercarriage/03-Base-Dimensioned.png)](Undercarriage/03-Base-Dimensioned.pdf "03 Base Dimensioned")
 
-* The base mounts to the vehicle with the central tube serving as shank tube & going into the receiver.
 * The length of the shank tube is drawn to go the full 130 mm depth of the receiver on my vehicle. Making it a few mm shorter may be desirable.
 * Hole to suit 5/8" hitch pin needs to be positioned to suit the receiver on my vehicle & is not drawn.
 * Cross pieces to facilitate attachment of the step (see [Components](Components.md)) need to be add as the engineer sees fit.
@@ -38,6 +40,9 @@ The 1050 mm dimension above puts the angled members at 45°, however that only n
 ## <a id="03"></a> Under Frame
 
 [![04 Under Frame](Undercarriage/04-Under-Frame.png)](Undercarriage/04-Under-Frame.pdf "04 Under Frame")
+
+The Under Frame supports the kitchen box & provides the mounting points to the base.
+
 [![05 Under Frame Dimensioned](Undercarriage/05-Under-Frame-Dimensioned.png)](Undercarriage/05-Under-Frame-Dimensioned.pdf "05 Under Frame Dimensioned")
 [![06 Under Frame Detail](Undercarriage/06-Under-Frame-Detail.png)](Undercarriage/06-Under-Frame-Detail.pdf "06 Under Frame Detail")
 
