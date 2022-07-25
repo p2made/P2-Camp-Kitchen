@@ -22,10 +22,8 @@ A tow bar mounted camping kitchen.
 6. Lights
 <!--6. [Lights](docs/Lights.md) ([PDF](docs/Lights.pdf))-->
 7. [Sheet Metal](docs/Sheet-Metal.md) ([PDF](docs/Sheet-Metal.pdf))
-8. Steel
-<!--8. [Steel](docs/Steel.md) ([PDF](docs/Steel.pdf))-->
-9. Assemblies
-<!--9. [Assemblies](docs/Assemblies.md) ([PDF](docs/Assemblies.pdf))-->
+8. Assemblies
+<!--8. [Assemblies](docs/Assemblies.md) ([PDF](docs/Assemblies.pdf))-->
 
 [PDF of this document](README.pdf).
 
