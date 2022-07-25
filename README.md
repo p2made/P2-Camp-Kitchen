@@ -17,8 +17,7 @@ A tow bar mounted camping kitchen.
 1. [Detail](docs/Detail.md) ([PDF](docs/Detail.pdf))
 2. [Frame](docs/Frame.md) ([PDF](docs/Frame.pdf))
 3. [Plywood](docs/Plywood.md) ([PDF](docs/Plywood.pdf))
-4. Undercarriage
-<!--4. [Undercarriage](docs/Undercarriage.md) ([PDF](docs/Undercarriage.pdf))-->
+4. [Undercarriage](docs/Undercarriage.md) ([PDF](docs/Undercarriage.pdf))
 5. [Components](docs/Components.md) ([PDF](docs/Components.pdf))
 6. Lights
 <!--6. [Lights](docs/Lights.md) ([PDF](docs/Lights.pdf))-->
