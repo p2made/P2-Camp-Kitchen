@@ -36,8 +36,8 @@ A tow bar mounted camping kitchen.
 [![04 Back](docs/Overview/04-Back.png)](docs/Overview/04-Back.pdf "04 Back")
 [![05 Open Left](docs/Overview/05-Open-Left.png)](docs/Overview/05-Open-Left.pdf "05 Open Left")
 [![06 Open Right](docs/Overview/06-Open-Right.png)](docs/Overview/06-Open-Right.pdf "06 Open Right")
-[![07 Frame Front](docs/Overview/07-Frame-Front.png)](docs/Overview/07-Frame-Front.pdf "07 Frame Front")
-[![08 Frame Back](docs/Overview/08-Frame-Back.png)](docs/Overview/08-Frame-Back.pdf "08 Frame Back")
+[![01 Frame Front](docs/Frame/01-Frame-Front.png)](docs/Frame/01-Frame-Front.pdf "01 Frame Front")
+[![02 Frame Back](docs/Frame/02-Frame-Back.png)](docs/Frame/02-Frame-Back.pdf "02 Frame Back")
 
 ## <a id="notes"></a> *Notes*
 
