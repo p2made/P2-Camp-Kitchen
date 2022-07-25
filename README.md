@@ -66,7 +66,7 @@ To be concise a number of arbitrary abbreviations are used throughout these docs
 		<td width="33%">
 			<dl>
 				<dt>D</dt><dd>Drawer</dd>
-				<dt>Dn</dt><dd>Drawer 1 to 5</dd>
+				<dt>Dn</dt><dd>Drawer <i>n</i> = 1 to 5</dd>
 			</dl>
 		</td>
 	</tr>
