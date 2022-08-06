@@ -7,6 +7,7 @@
 5. [Fridge Tray](#05)
 6. [Caravan Level](#06)
 7. [Caravan Step](#07)
+8. [Lid Hinge](#08)
 
 --
 
@@ -72,3 +73,10 @@ Version 3, with hook mount & screw adjustment.
 * Selected item has lighting to be part of safety lighting.
 
 ![caravan-step](_images/caravan-step.jpeg)
+
+## <a id="08"></a> Lid Hinge
+
+Custom hinge to provide a right opening action for the lid.
+
+[![07 Lid Hinge A](Components/07-Lid-Hinge-A.png)](Components/07-Lid-Hinge-A.pdf "07 Lid Hinge A")
+[![08 Lid Hinge B](Components/08-Lid-Hinge-B.png)](Components/08-Lid-Hinge-B.pdf "08 Lid Hinge B")
