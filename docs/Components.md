@@ -78,6 +78,6 @@ Version 3, with hook mount & screw adjustment.
 
 Custom hinge to provide a right opening action for the lid.
 
-![08 Lid Hinge B](Components/09-Lid-Hinge.mov)]
+![08 Lid Hinge B](Components/09-Lid-Hinge.mov)
 [![07 Lid Hinge A](Components/07-Lid-Hinge-A.png)](Components/07-Lid-Hinge-A.pdf "07 Lid Hinge A")
 [![08 Lid Hinge B](Components/08-Lid-Hinge-B.png)](Components/08-Lid-Hinge-B.pdf "08 Lid Hinge B")
