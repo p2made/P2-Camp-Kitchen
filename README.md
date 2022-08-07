@@ -20,7 +20,7 @@ A tow bar mounted camping kitchen.
 4. [Undercarriage](docs/Undercarriage.md) ([PDF](docs/Undercarriage.pdf))
 5. [Components](docs/Components.md) ([PDF](docs/Components.pdf))
 6. Electrical, Electronic, & Lighting
-<!--6. [Electrical, Electronic, & Lighting](docs/Electrical-Electronic-Lighting.md) ([PDF](docs/Electrical-Electronic-Lighting.pdf))-->
+<!--6. [Electrical, Electronic, & Lighting](docs/Electrical.md) ([PDF](docs/Electrical.pdf))-->
 7. [Sheet Metal](docs/Sheet-Metal.md) ([PDF](docs/Sheet-Metal.pdf))
 8. Assemblies
 <!--8. [Assemblies](docs/Assemblies.md) ([PDF](docs/Assemblies.pdf))-->
